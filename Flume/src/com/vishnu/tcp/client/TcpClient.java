@@ -15,5 +15,7 @@ public class TcpClient {
 		DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
 		outToServer.writeBytes("test message" + '\n');
 		clientSocket.close();
+
+		System.out.println("1 edition by liukuijian at 2020-05-01 11:24");
 	}
 }
