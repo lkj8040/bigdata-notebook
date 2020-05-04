@@ -21,5 +21,6 @@ public class TcpClient {
 		System.out.println("4 edition by liukuijian at 2020-05-01 12:01");
 		System.out.println("5 edition by lkj_33_dev at 2020-05-01 12:07");
 		System.out.println("6 edition by lkj_33_dev at 2020-05-04 23:09");
+		System.out.println("7 edition by lkj_33_dev remote at 2020-05-04 23:18");
 	}
 }
